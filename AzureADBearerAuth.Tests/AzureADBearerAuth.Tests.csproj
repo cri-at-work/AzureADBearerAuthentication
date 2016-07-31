@@ -92,7 +92,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\AzureADBearerAuth\AzureADBearerAuth.csproj">
+    <ProjectReference Include="..\AzureADBearerAuth\AzureADBearerAuth.csproj">
       <Project>{f5415fa2-abe0-4b27-a885-5a80d47bbce4}</Project>
       <Name>AzureADBearerAuth</Name>
     </ProjectReference>

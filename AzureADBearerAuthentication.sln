@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADBearerAuth.SelfHosted", "AzureADBearerAuth.SelfHosted\AzureADBearerAuth.SelfHosted\AzureADBearerAuth.SelfHosted.csproj", "{CF36BF58-D08F-425A-9A6A-D0A86C506110}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADBearerAuth.SelfHosted", "AzureADBearerAuth.SelfHosted\AzureADBearerAuth.SelfHosted.csproj", "{CF36BF58-D08F-425A-9A6A-D0A86C506110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADBearerAuth.SelfHosted.Tests", "AzureADBearerAuth.SelfHosted\AzureADBearerAuth.SelfHosted.Tests\AzureADBearerAuth.SelfHosted.Tests.csproj", "{12B06E45-12F5-4E56-ADB4-5879D98D3105}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADBearerAuth.Tests", "AzureADBearerAuth.Tests\AzureADBearerAuth.Tests.csproj", "{12B06E45-12F5-4E56-ADB4-5879D98D3105}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADBearerAuth", "AzureADBearerAuth\AzureADBearerAuth.csproj", "{F5415FA2-ABE0-4B27-A885-5A80D47BBCE4}"
 EndProject
